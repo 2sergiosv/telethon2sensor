@@ -11,9 +11,9 @@ With this new sensor, you can easily set up Home Assistant automation to prepare
 Follow instructions here [documentation](https://core.telegram.org/api/obtaining_api_id).
 Then you will have access to the data about the application (App api_id, App api_hash), which is required for the addon.
 
-## Generate Telegram String Session
+## Generate Telegram String Session~~~~
 For generate telegram string session
-Use ./utils/session_generator.py, see here [Telethon2Sensor](https://github.com/semitop7/telethon2sensor).
+Use ./utils/session_generator.py, see here [Telethon2Sensor](https://github.com/2sergiosv/telethon2sensor).
 
 Require python and telethon library
 
@@ -63,4 +63,4 @@ ___
 
 For more information, please refer to the following:
 
-- Github repository: [Telethon2Sensor](https://github.com/semitop7/telethon2sensor)
+- Github repository: [Telethon2Sensor](https://github.com/2sergiosv/telethon2sensor)
